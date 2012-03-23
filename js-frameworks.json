@@ -534,6 +534,13 @@
                     "license": "Creative Commons Attribution 3.0 License",
                     "source": "No",
                     "summary": "The GWT SDK contains the Java API libraries, compiler, and development server that let you write client-side applications in Java and deploy them as JavaScript."
+                },
+                {
+                    "url": "http://www.jangaroo.net/home/",
+                    "name": "Jangaroo",
+                    "license": "Apache License 2.0",
+                    "source": "Yes",
+                    "summary": "Cross compiles ActionScript 3 to JavaScript. Includes libraries for flash runtime emulation and interfacing with other frameworks, such as ExtJS."
                 }
             ]
         }
