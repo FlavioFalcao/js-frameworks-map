@@ -278,7 +278,14 @@
                     "license": "MIT",
                     "source": "Yes",
                     "summary": "A small JavaScript library to simplify working with vector graphics via SVG and VML."
-                }
+                },
+				{
+					"url": "http://lib.ivank.net/",
+					"name": "IvanK Lib",
+					"license": "MIT",
+					"source": "No",
+					"summary": "A JavaScript 2D graphics library inspired by Flash."
+				}
             ]
         },
         {
@@ -499,7 +506,14 @@
                     "license": "MIT",
                     "source": "Yes",
                     "summary": "A whole suite of libraries, including EaselJs, TweenJS, SoundJS, PreloadJS and Zoe, designed for creating games and animations."
-                }
+                },
+				{
+					"url": "http://craftyjs.com/",
+					"name": "Crafty",
+					"license": "MIT or GPL",
+					"source": "Yes",
+					"summary": "Crafty is a game library including features like entities and components, rendering to Canvas or DOM and event binding."
+				}
             ]
         },
         {
