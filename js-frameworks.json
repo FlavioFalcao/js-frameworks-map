@@ -114,7 +114,7 @@
                     "name": "CoreChain",
                     "license": "MIT and GPL",
                     "source": "No",
-                    "summary": "An architectural framework and UI toolkit (documentation in Korean)"
+                    "summary": "CoreChain consists of a Core module which controls DOM and Event, a UI module for component architecture and a Graph module based on Canvas. (Documentation in Korean)"
                 },
                 {
                     "url": "http://qooxdoo.org/about",
@@ -466,7 +466,14 @@
                     "license": "MIT",
                     "source": "Yes",
                     "summary": "A behavior-driven development framework for testing JavaScript code that does not depend on any other JavaScript frameworks."
-                }
+                },
+				{
+					"url": "http://yuilibrary.com/projects/yuitest/",
+					"name": "YUI Test",
+					"license": "BSD",
+					"source": "GitHub",
+					"summary": "Allows writing unit tests that can be run in web browsers or on the command line, as well as functional tests to be run in web browsers."
+				}
             ]
         },
         {
@@ -539,7 +546,7 @@
                     "url": "http://www.jangaroo.net/home/",
                     "name": "Jangaroo",
                     "license": "Apache License 2.0",
-                    "source": "Yes",
+                    "source": "GitHub",
                     "summary": "Cross compiles ActionScript 3 to JavaScript. Includes libraries for flash runtime emulation and interfacing with other frameworks, such as ExtJS."
                 }
             ]
