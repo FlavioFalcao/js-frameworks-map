@@ -7,14 +7,14 @@
                     "url": "http://jquery.com/",
                     "name": "jQuery",
                     "license": "MIT and GPL licenses",
-                    "source": "Yes",
+                    "source": "GitHub",
                     "summary": "A framework that simplifies DOM traversing, event handling, animating and Ajax interactions for rapid web development. jQueryUI library includes UI components."
                 },
                 {
                     "url": "http://dojotoolkit.org/",
                     "name": "Dojo Toolkit",
                     "license": "BSD license or the Academic Free License version 2.1",
-                    "source": "No (source hosted on SVN)",
+                    "source": "Hosted SVN",
                     "summary": "A full stack framework and component set for building web-based and mobile applications that includes DOM manipulation, Ajax, animations, effects, and widgets."
                 },
                 {
@@ -28,21 +28,21 @@
                     "url": "http://twitter.github.com/bootstrap/",
                     "name": "Twitter Bootstrap",
                     "license": "Apache v2",
-                    "source": "Yes",
+                    "source": "GitHub",
                     "summary": "A  toolkit for kickstarting HTML, CSS and JavaScript for websites and apps including base styles for typography, forms, buttons, tables, grids, navigation, alerts, and more."
                 },
                 {
                     "url": "http://yuilibrary.com/",
                     "name": "YUI",
                     "license": "BSD",
-                    "source": "Yes",
+                    "source": "GitHub",
                     "summary": "A lightweight and modular JavaScript and CSS framework for building interactive web applications."
                 },
                 {
                     "url": "http://mootools.net/",
                     "name": "MooTools",
                     "license": "MIT",
-                    "source": "Yes",
+                    "source": "GitHub",
                     "summary": "A modular, object-oriented framework that re-creates pseudo-classical inheritance with Classes that allow for extensible and reusable behaviors."
                 },
                 {
@@ -57,49 +57,49 @@
                     "url": "http://prototypejs.org/",
                     "name": "Prototype",
                     "license": "MIT",
-                    "source": "Yes",
+                    "source": "GitHub",
                     "summary": "A framework including a toolkit for class-driven development and an Ajax library."
                 },
                 {
                     "url": "http://sproutcore.com/",
                     "name": "SproutCore",
                     "license": "MIT",
-                    "source": "Yes",
+                    "source": "GitHub",
                     "summary": "An MVC application framework for data-centric applications that includes data bindings."
                 },
                 {
                     "url": "http://emberjs.com/",
                     "name": "Ember.js",
                     "license": "MIT",
-                    "source": "Yes",
+                    "source": "GitHub",
                     "summary": "Framework that tries to eliminate boilerplate and provide a standard architecture. Includes bindings, computed properties and auto-updating templates. Formerly SproutCore 2.0."
                 },
                 {
                     "url": "https://github.com/fohr/blossom",
                     "name": "Blossom",
                     "license": "GPL v3",
-                    "source": "Yes",
+                    "source": "GitHub",
                     "summary": "Another SproutCore fork, it re-architects the view layer to be HTML/CSS-independent while providing a high-performance animation subsystem that leverages hardware acceleration."
                 },
                 {
                     "url": "http://code.google.com/closure/",
                     "name": "Google Closure",
                     "license": "Apache v2",
-                    "source": "No (Source available on Google Code)",
+                    "source": "Google Code",
                     "summary": "Developed by Google engineers, it includes features like a JavaScript optimizer, a library of UI widgets and controls, a templating engine and extensions to CSS."
                 },
                 {
                     "url": "http://cappuccino.org/",
                     "name": "Cappuccino",
                     "license": "LGPL",
-                    "source": "Yes",
+                    "source": "GitHub",
                     "summary": "Created with Objective-J, which is modelled after Objective-C but on JavaScript, it abstracts away HTML, CSS and the DOM and implements APIs from GNUstep and Cocoa."
                 },
                 {
                     "url": "http://towerjs.org/",
                     "name": "Tower.js",
                     "license": "MIT",
-                    "source": "Yes",
+                    "source": "GitHub",
                     "summary": "A full stack web framework for Node.js and the Browser built on top of Node's Connect and Express and modeled after Ruby on Rails."
                 },
                 {
@@ -120,7 +120,7 @@
                     "url": "http://qooxdoo.org/about",
                     "name": "qooxdoo",
                     "license": " GNU LGPL and the Eclipse Public License (EPL)",
-                    "source": "Yes",
+                    "source": "GitHub",
                     "summary": "A JavaScript framework for creating apps for a wide range of platforms (mobile, website, desktop, server) that are object-oriented and utilize a comprehensive tool chain."
                 }
             ]
@@ -132,35 +132,35 @@
                     "url": "http://knockoutjs.com/",
                     "name": "Knockout.js",
                     "license": "MIT",
-                    "source": "Yes",
+                    "source": "GitHub",
                     "summary": "A lightweight framework for building JavaScript UI's with declarative bindings using the Model-View-View Model (MVVM) pattern."
                 },
                 {
                     "url": "http://documentcloud.github.com/backbone/",
                     "name": "Backbone.js",
                     "license": "MIT",
-                    "source": "Yes",
+                    "source": "GitHub",
                     "summary": "An architectural framework provides things like models key-value binding and custom events, views with declarative event handling and a RESTful JSON interface."
                 },
                 {
                     "url": "http://angularjs.org/",
                     "name": "AngularJS",
                     "license": "MIT",
-                    "source": "Yes",
+                    "source": "GitHub",
                     "summary": "An MVC and dependency injection framework that includes support for declarative UI templates and two-way binding."
                 },
                 {
                     "url": "http://spinejs.com/",
                     "name": "Spine",
                     "license": "MIT",
-                    "source": "Yes",
+                    "source": "GitHub",
                     "summary": "A lightweight MVC framework built with, but not requiring, CoffeeScript that includes features like asynchronous server communication, a full model layer and ORM."
                 },
                 {
                     "url": "http://agilityjs.com/",
                     "name": "Agility.js",
                     "license": "MIT",
-                    "source": "Yes",
+                    "source": "GitHub",
                     "summary": "An MVC library that works with a single object type that contains a full model-view-controller stack."
                 },
                 {
@@ -173,7 +173,7 @@
                     "url": "http://javascriptmvc.com/",
                     "name": "JavaScriptMVC",
                     "license": "MIT",
-                    "source": "Yes",
+                    "source": "GitHub",
                     "dependencies": "jQuery",
                     "summary": "Comprised of 4 sub projects including the DocumentJS documentation engine, FuncUnit testing framework, jQueryMX MVC extensions and StealJS code manager."
                 },
@@ -181,14 +181,14 @@
                     "url": "http://batmanjs.org/",
                     "name": "Batman.js",
                     "license": "MIT",
-                    "source": "Yes",
+                    "source": "GitHub",
                     "summary": "A framework for building applications with CoffeeScript or JavaScript including a system of view bindings and observable properties"
                 },
                 {
                     "url": "http://somajs.github.com/somajs/",
                     "name": "Soma.js",
                     "license": "Mozilla Public License (MPL) Version 1.1",
-                    "source": "Yes",
+                    "source": "GitHub",
                     "summary": "MVC framework focused on loosely-coupled apps that implements the Observer and Command patterns via the native JavaScript event system. Includes a MooTools version."
                 }
             ]
@@ -200,7 +200,7 @@
                     "url": "http://amplifyjs.com/",
                     "name": "AmplifyJS",
                     "license": "MIT or GPLv2",
-                    "source": "Yes",
+                    "source": "GitHub",
                     "dependencies": "jQuery",
                     "summary": "A set of components to simplify data handling and AJAX request management by providing a unified API for various data sources."
                 },
@@ -208,49 +208,49 @@
                     "url": "http://documentcloud.github.com/underscore/",
                     "name": "Underscore",
                     "license": "MIT",
-                    "source": "Yes",
+                    "source": "GitHub",
                     "summary": "A library that provides functions and helpers for functional programming support including function binding, JavaScript templates and more."
                 },
                 {
                     "url": "https://github.com/janl/mustache.js",
                     "name": "Mustache.js",
                     "license": "MIT",
-                    "source": "Yes",
+                    "source": "GitHub",
                     "summary": "An implementation of the Mustache logic-less template system in JavaScript."
                 },
                 {
                     "url": "http://handlebarsjs.com/",
                     "name": "Handlebars.js",
                     "license": "MIT",
-                    "source": "Yes",
+                    "source": "GitHub",
                     "summary": "A library that works in conjunction with Mustache.js to let you build semantic templates."
                 },
                 {
                     "url": "http://requirejs.org/",
                     "name": "RequireJS",
                     "license": "BSD and MIT",
-                    "source": "Yes",
+                    "source": "GitHub",
                     "summary": "A JavaScript file and module loader optimized for the browser but works with server-side solutions like Node and Rhino."
                 },
                 {
                     "url": "http://microjs.com/",
                     "name": "Microjs ",
                     "license": "depends on micro-framework or micro-library",
-                    "source": "Yes",
+                    "source": "GitHub",
                     "summary": "A large collection of micro-frameworks each with a very limited and specific intent."
                 },
                 {
                     "url": "http://ukijs.org/",
                     "name": "UKI",
                     "license": "MIT",
-                    "source": "Yes",
+                    "source": "GitHub",
                     "summary": "A simple JavaScript user interface toolkit for desktop-like web applications that comes with a rich view-component library."
                 },
                 {
                     "url": "http://beebole.com/pure/",
                     "name": "Pure",
                     "license": "MIT",
-                    "source": "Yes",
+                    "source": "GitHub",
                     "summary": "A templating tool to generate HTML from JSON data that can work standalone or with dojo, DomAssistant, jQuery, Mootools, Prototype, Sizzle and Sly."
                 }
             ]
@@ -262,21 +262,21 @@
                     "url": "http://easeljs.com/",
                     "name": "EaselJS",
                     "license": "MIT",
-                    "source": "Yes",
+                    "source": "GitHub",
                     "summary": "A library to simplify working with the html5 canvas element including a full, hierarchical display list and a core interaction model."
                 },
                 {
                     "url": "http://paperjs.org/",
                     "name": "Paper.js",
                     "license": "MIT",
-                    "source": "Yes",
+                    "source": "GitHub",
                     "summary": "An open source vector graphics scripting framework that runs on top of the HTML5 Canvas."
                 },
                 {
                     "url": "http://raphaeljs.com/index.html",
                     "name": "Raphael",
                     "license": "MIT",
-                    "source": "Yes",
+                    "source": "GitHub",
                     "summary": "A small JavaScript library to simplify working with vector graphics via SVG and VML."
                 },
 				{
@@ -295,7 +295,7 @@
                     "url": "http://jquerymobile.com/",
                     "name": "jQuery Mobile",
                     "license": "MIT and GPLv2",
-                    "source": "Yes",
+                    "source": "GitHub",
                     "dependencies": "jQuery",
                     "summary": "A HTML5-base UI system for all popular mobile device platforms, built on a jQuery and jQuery UI foundation."
                 },
@@ -310,14 +310,14 @@
                     "url": "http://zeptojs.com/",
                     "name": "Zepto ",
                     "license": "MIT",
-                    "source": "Yes",
+                    "source": "GitHub",
                     "summary": "Primarily focused on mobile, this is  a minimalist JavaScript framework with a jQuery-compatible syntax."
                 },
                 {
                     "url": "http://the-m-project.org/",
                     "name": "The M Project",
                     "license": "MIT &amp; GPL",
-                    "source": "Yes",
+                    "source": "GitHub",
                     "dependencies": "jQuery, jQuery Mobile",
                     "summary": "An MVC framework for mobile app development including features like offline support, local storage, positioning, a touch-optimized UI, i18n support and native packing via Espresso."
                 },
@@ -325,14 +325,14 @@
                     "url": "http://www.jqmobi.com/",
                     "name": "jQ.Mobi",
                     "license": "MIT",
-                    "source": "Yes",
+                    "source": "GitHub",
                     "summary": "The jQuery framework rewritten from the ground up to be optimized for mobile browsers on iOS and Android."
                 },
                 {
                     "url": "http://spinejs.com/mobile/index",
                     "name": "Spine Mobile",
                     "license": "MIT",
-                    "source": "Yes",
+                    "source": "GitHub",
                     "dependencies": "Spine",
                     "summary": "Built on top of Spine that, it strives for a native look-and-feel and includes features like specialized controllers and panel layout, hardware accelerated transitions and touch events."
                 },
@@ -340,7 +340,7 @@
                     "url": "https://github.com/gobhi/gbone.js",
                     "name": "gbone.js",
                     "license": "MIT",
-                    "source": "Yes",
+                    "source": "GitHub",
                     "dependencies": "Backbone.js, Underscore.js, Zepto or jQuery",
                     "summary": "Inspired by Spine Mobile but written for Backbone and adding design patterns like observer and cleanup mixins based on Backbone.js on Rails ebook."
                 },
@@ -348,42 +348,42 @@
                     "url": "http://jqtouch.com/",
                     "name": "jQTouch",
                     "license": "MIT",
-                    "source": "Yes",
+                    "source": "GitHub",
                     "summary": "A plugin for Zepto or jQuery designed for mobile web development on the iPhone, Android and iPod Touch."
                 },
                 {
                     "url": "http://enyojs.com/",
                     "name": "Enyo",
                     "license": "Apache v2",
-                    "source": "Yes",
+                    "source": "GitHub",
                     "summary": "An object-oriented JavaScript framework built for mobile first, though it supports desktop browsers, and powering WebOS."
                 },
                 {
                     "url": "http://www.chocolatechip-ui.com/",
                     "name": "ChocolateChip UI (ChUI)",
                     "license": "MIT",
-                    "source": "Yes",
+                    "source": "GitHub",
                     "summary": "A framework for mobile web application on the WebKit platform that provides layouts and widgets with built-in functionality. Has been ported to jQuery and Zepto."
                 },
                 {
                     "url": "http://xuijs.com/",
                     "name": "xui.js",
                     "license": "MIT",
-                    "source": "Yes",
+                    "source": "GitHub",
                     "summary": "An extremely small DOM library for authoring html5 mobile web applications. Originally written for PhoneGap by members of the PhoneGap team."
                 },
                 {
                     "url": "http://joapp.com/",
                     "name": "Jo",
                     "license": "MIT",
-                    "source": "Yes",
+                    "source": "GitHub",
                     "summary": "A framework for mobile HTML5 web or native apps that includes widgets, lists and scrolling goodness using JavaScript and CSS3. Works well with PhoneGap."
                 },
                 {
                     "url": "http://dojotoolkit.org/features/mobile",
                     "name": "Dojo Mobile",
                     "license": "BSD license or the Academic Free License version 2.1",
-                    "source": "No (source hosted on SVN)",
+                    "source": "Hosted SVN",
                     "summary": "An HTML5 and JavaScript framework that focuses on a native look and feel on modern webkit-enabled mobile devices such as iPhone, iPod Touch, iPad, Android and RIM."
                 },
                 {
@@ -402,14 +402,14 @@
                     "url": "http://nodejs.org/",
                     "name": "Node.js",
                     "license": "MIT (included libraries vary)",
-                    "source": "Yes",
+                    "source": "GitHub",
                     "summary": " Platform built on Chrome's JavaScript runtime for building network applications using an event-driven, non-blocking I/O model for data-intensive real-time applications."
                 },
                 {
                     "url": "http://www.mozilla.org/rhino/",
                     "name": "Rhino",
                     "license": "MPL 1.1/GPL 2.0 license",
-                    "source": "Yes",
+                    "source": "GitHub",
                     "summary": " An implementation of JavaScript written entirely in Java typically for embedding into Java applications to provide scripting to end users."
                 }
             ]
@@ -421,21 +421,21 @@
                     "url": "http://visionmedia.github.com/mocha/",
                     "name": "Mocha",
                     "license": "MIT",
-                    "source": "Yes",
+                    "source": "GitHub",
                     "summary": "A JavaScript test framework running on node and the browser for asynchronous testing."
                 },
                 {
                     "url": "http://docs.jquery.com/QUnit",
                     "name": "QUnit",
                     "license": "MIT",
-                    "source": "Yes",
+                    "source": "GitHub",
                     "summary": "QUnit is a JavaScript test suite used by the jQuery project to test its code and plugins but capable of testing any generic JavaScript code."
                 },
                 {
                     "url": "https://github.com/marstall/shim/",
                     "name": "Shim",
                     "license": "unknown",
-                    "source": "Yes",
+                    "source": "GitHub",
                     "dependencies": "Node.js",
                     "summary": "A cross-browser and cross-device compatibility testing framework."
                 },
@@ -443,35 +443,35 @@
                     "url": "https://github.com/douglascrockford/JSDev",
                     "name": "JSDev",
                     "license": "Not listed",
-                    "source": "Yes",
+                    "source": "GitHub",
                     "summary": "A filter that is useful for testing as it activates selected comments, making them executable."
                 },
                 {
                     "url": "http://www.phantomjs.org/",
                     "name": "PhantomJS",
                     "license": "MIT",
-                    "source": "Yes",
+                    "source": "GitHub",
                     "summary": "Designed for headless website testing, Shim is a headless WebKit with JavaScript API including native support for DOM handling, CSS selector, JSON, Canvas, and SVG."
                 },
                 {
                     "url": "https://github.com/WebReflection/wru",
                     "name": "wru",
                     "license": "MIT",
-                    "source": "Yes",
+                    "source": "GitHub",
                     "summary": "A general purpose test framework compatible with web environment, node.js, Rhino, and now PhantomJS."
                 },
                 {
                     "url": "http://sinonjs.org/",
                     "name": "SinonJS",
                     "license": "Simplified BSD",
-                    "source": "Yes",
+                    "source": "GitHub",
                     "summary": "Standalone test spies, stubs and mocks for JavaScript with no dependencies and works with any unit testing framework."
                 },
                 {
                     "url": "http://pivotal.github.com/jasmine/",
                     "name": "Jasmine",
                     "license": "MIT",
-                    "source": "Yes",
+                    "source": "GitHub",
                     "summary": "A behavior-driven development framework for testing JavaScript code that does not depend on any other JavaScript frameworks."
                 },
 				{
@@ -497,21 +497,21 @@
                     "url": "https://github.com/mrdoob/three.js",
                     "name": "ThreeJS",
                     "license": "MIT",
-                    "source": "Yes",
+                    "source": "GitHub",
                     "summary": " A lightweight 3D library designed for a very low level of complexity and providing canvas, svg and WebGL renderers."
                 },
                 {
                     "url": "http://createjs.com/",
                     "name": "CreateJS",
                     "license": "MIT",
-                    "source": "Yes",
+                    "source": "GitHub",
                     "summary": "A whole suite of libraries, including EaselJs, TweenJS, SoundJS, PreloadJS and Zoe, designed for creating games and animations."
                 },
 				{
 					"url": "http://craftyjs.com/",
 					"name": "Crafty",
 					"license": "MIT or GPL",
-					"source": "Yes",
+					"source": "GitHub",
 					"summary": "Crafty is a game library including features like entities and components, rendering to Canvas or DOM and event binding."
 				}
             ]
@@ -523,7 +523,7 @@
                     "url": "http://coffeescript.org/",
                     "name": "CoffeeScript",
                     "license": "MIT",
-                    "source": "Yes",
+                    "source": "GitHub",
                     "dependencies": "Node.js",
                     "summary": "Billed as an attempt to expose the good parts of JavaScript in a simple way."
                 },
@@ -531,14 +531,14 @@
                     "url": "http://www.dartlang.org/",
                     "name": "Google Dart",
                     "license": "BSD",
-                    "source": "No (Source available on Google Code)",
+                    "source": "Google Code",
                     "summary": "Intended to solve JavaScript's problems and offer better performance, including  the ability 'to be more easily tooled for large-scale projects' and better security features."
                 },
                 {
                     "url": "http://brunch.io/",
                     "name": "Brunch",
                     "license": "MIT",
-                    "source": "Yes",
+                    "source": "GitHub",
                     "dependencies": "CoffeeScript, Backbone.js, Underscore.js, Stitch, Eco, Stylus &amp; jQuery.",
                     "summary": "Billed as 'a lightweight approach to building HTML5 applications with emphasis on elegance and simplicity.'"
                 },
@@ -546,7 +546,7 @@
                     "url": "https://github.com/clojure/clojurescript",
                     "name": "ClojureScript",
                     "license": "Eclipse Public License 1.0",
-                    "source": "Yes",
+                    "source": "GitHub",
                     "summary": "A compiler for Clojure that targets JavaScript and is designed to emit JavaScript code which is compatible with the advanced compilation mode of the Google Closure compiler."
                 },
                 {
