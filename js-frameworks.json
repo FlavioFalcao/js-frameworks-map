@@ -122,7 +122,14 @@
                     "license": " GNU LGPL and the Eclipse Public License (EPL)",
                     "source": "GitHub",
                     "summary": "A JavaScript framework for creating apps for a wide range of platforms (mobile, website, desktop, server) that are object-oriented and utilize a comprehensive tool chain."
-                }
+                },
+				{
+					"url": "http://developer.yahoo.com/cocktails/mojito/",
+					"name": "Mojito",
+					"license": "MIT",
+					"source": "GitHub",
+					"summary": "A JavaScript framework from Yahoo built on top of YUI 3 for writing apps that run on both the client (browser) and server (Node.js)."
+				}
             ]
         },
         {
