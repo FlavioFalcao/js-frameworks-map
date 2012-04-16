@@ -129,6 +129,20 @@
 					"license": "MIT",
 					"source": "GitHub",
 					"summary": "A JavaScript framework from Yahoo built on top of YUI 3 for writing apps that run on both the client (browser) and server (Node.js)."
+				},
+				{
+					"url": "http://www.meteor.com/",
+					"name": "Meteor",
+					"license": "MIT",
+					"source": "GitHub",
+					"summary": "A pure JavaScript framework for both client and server that includes live page updates, data synchronization, hot code pushes and more."
+				},
+				{
+					"url": "http://qatrix.com",
+					"name": "Qatrix",
+					"license": "MIT",
+					"source": "GitHub",
+					"summary": "Includes hardware accelerated animation, DOM element selectors, DOM manipulation, event handling, AJAX, cache system and a library of useful functions."
 				}
             ]
         },
@@ -197,7 +211,28 @@
                     "license": "Mozilla Public License (MPL) Version 1.1",
                     "source": "GitHub",
                     "summary": "MVC framework focused on loosely-coupled apps that implements the Observer and Command patterns via the native JavaScript event system. Includes a MooTools version."
-                }
+                },
+				{
+					"url": "http://canjs.us/",
+					"name": "CanJS",
+					"license": "MIT",
+					"source": "GitHub",
+					"summary": "A lightweight (8.5kb) architectural framework that includes binding, template loading/caching and more. Supports jQuery, Zepto, Dojo, YUI and Mootools out of the box."
+				},
+				{
+					"url": "https://github.com/scottburch/river-js",
+					"name": "River",
+					"license": "not defined",
+					"source": "GitHub",
+					"summary": "River is a modular Javascript framework, not a MVC framework, designed to facilitate code organizing and coordinating framework using the Facade/Mediator pattern."
+				},
+				{
+					"url": "http://rhysbrettbowen.github.com/PlastronJS/",
+					"name": "PlastronJS",
+					"license": "MIT",
+					"source": "GitHub",
+					"summary": "An MVC framework for Closure Library and Closure Compiler."
+				}
             ]
         },
         {
@@ -487,6 +522,13 @@
 					"license": "BSD",
 					"source": "GitHub",
 					"summary": "Allows writing unit tests that can be run in web browsers or on the command line, as well as functional tests to be run in web browsers."
+				},
+				{
+					"url": "https://github.com/cucumber/cucumber-js",
+					"name": "Cucumber.js",
+					"license": "MIT",
+					"source": "GitHub",
+					"summary": "A port of the Cucumber Behaviour-Driven Development tool to JavaScript that runs on both Node.js and modern web browsers."
 				}
             ]
         },
