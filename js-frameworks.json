@@ -434,7 +434,15 @@
                     "license": "GNU GPL and free commercial Licenses",
                     "source": "No",
                     "summary": "A full framework and UI widgets for building HTML5-based mobile web apps."
-                }
+                },
+				{
+					"url": "http://moobilejs.com/",
+					"name": "Moobile",
+					"license": "MIT",
+					"source": "No",
+					"dependencies": "Mootools",
+					"summary": "A mobile application framework built on top of Mootools."
+				}
             ]
         },
         {
@@ -529,6 +537,28 @@
 					"license": "MIT",
 					"source": "GitHub",
 					"summary": "A port of the Cucumber Behaviour-Driven Development tool to JavaScript that runs on both Node.js and modern web browsers."
+				},
+				{
+					"url": "http://busterjs.org/",
+					"name": "Buster.js",
+					"license": "BSD",
+					"source": "No",
+					"summary": "A JavaScript testing toolkit for browsers and Node that offers browser automation, static html page testing, testing in headless browsers and more."
+				},
+				{
+					"url": "http://casperjs.org/",
+					"name": "CasperJS",
+					"license": "MIT",
+					"source": "GitHub",
+					"dependencies": "PhantomJS",
+					"summary": "An open source navigation scripting & testing utility written in Javascript and based on PhantomJS."
+				},
+				{
+					"url": "http://www.jscheck.org/",
+					"name": "JSCheck",
+					"license": "Public Domain",
+					"source": "GitHub",
+					"summary": "A specification-driven testing tool inspired by QuickCheck."
 				}
             ]
         },
